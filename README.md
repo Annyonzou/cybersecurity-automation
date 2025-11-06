@@ -13,6 +13,7 @@ A collection of Python-based cybersecurity automation tools focused on:
 ✅ Enhancing insider threat and vulnerability detection  
 
 Projects included:
+
 - 🛡️ Vulnerability Scan Automation (Tenable API optional)
 - 🔍 SIEM Log Parsing & Anomaly Detection
 - 🛠️ Patch Compliance Checker
@@ -28,14 +29,14 @@ Projects included:
 
 ---
 
-Setup
+## Setup
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
-##Future Enhancements
+Future Enhancements
 
 - API integrations (Tenable, Splunk REST API)
 - Dashboard export for reporting (HTML/PDF)
