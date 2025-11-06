@@ -28,7 +28,7 @@ Projects included:
 
 ---
 
-## Setup
+Setup
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
