@@ -34,3 +34,13 @@ python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
+
+##Future Enhancements
+
+- API integrations (Tenable, Splunk REST API)
+- Dashboard export for reporting (HTML/PDF)
+- CI/CD automated testing
+
+
+
+
