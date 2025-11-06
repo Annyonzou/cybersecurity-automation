@@ -7,6 +7,7 @@
 [![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-red)]()
 
 A collection of Python-based cybersecurity automation tools focused on:
+
 ✅ Reducing manual analyst workload  
 ✅ Improving alerting & remediation efficiency  
 ✅ Enhancing insider threat and vulnerability detection  
